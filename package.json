@@ -30,18 +30,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/libDrive/web.git"
+    "url": "git+https://github.com/iminamoto/web.git"
   },
-  "author": "Elias Benbourenane <me@elias.eu.org> (https://elias.eu.org)",
+  "author": "iminamoto <noahbrown94@pm.me> (https://iminamoto.github.io)",
   "funding": [
     {
       "type": "ko-fi",
-      "url": "https://ko-fi.com/eliasbenb"
+      "url": "https://ko-fi.com/iminamoto"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/libDrive/libDrive/issues"
+    "url": "https://github.com/iminamoto/libdrive/issues"
   },
   "browserslist": {
     "production": [
